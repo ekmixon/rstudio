@@ -20,6 +20,7 @@
 * Fixed custom shortcuts not appearing correctly in "Keyboard Shortcuts Help" and Electron menus. (#9953)
 * Updated Files Pane buttons to resize and remain visible at smaller widths (#9870)
 * Fixed header scrolling in data viewer tables not following table contents in unfocused windows (#8208)
+* Fixed scrolling past long sub-content (like kables) in RMD files. User must interact with sub-content in order to scroll through it (#2202)
 
 ### Misc
 
